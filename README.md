@@ -1,0 +1,1 @@
+R-package-ComorbidNet: This R package constructs a comorbid network by integrating differentially expressed genes (DEGs) and disease-gene associations from the Online Mendelian Inheritance in Man (OMIM) database.
